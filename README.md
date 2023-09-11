@@ -2,7 +2,7 @@
 
 I'm Dominik!
 
-computer science freshman | university of Innsbruck.
+computer science freshman | university of Innsbruck
   
 Occasionally I work on web development in JavaScript/React ⚛
 
