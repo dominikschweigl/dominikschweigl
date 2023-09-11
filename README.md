@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏻
+
+I'm Dominik!
+
+computer science freshman | university of Innsbruck.
+  
+Occasionally I work on web development in JavaScript/React ⚛
+
+
+
 
 <!--
 **devdomnk/devdomnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
