@@ -1,8 +1,7 @@
-### Hi there 👋🏻
+# Hi there✌🏻
 
-I'm Dominik!
 
-computer science freshman | university of Innsbruck
+I'm Dominik, and I am a computer science freshman at university of Innsbruck
   
 Occasionally I work on web development in JavaScript/React ⚛
 
