@@ -7,12 +7,12 @@ occasionally I work on web development in JavaScript/React
 
 <br/>
 
-#### Fluent Languages
+### Fluent Languages
 ![HtmlLogo](https://github.com/devdomnk/devdomnk/assets/144699274/788f3004-0735-4b84-b939-60ce2be41470)
 ![CssLogo](https://github.com/devdomnk/devdomnk/assets/144699274/be9d0244-39ac-4ff8-9ace-da84f4b35a59)
 ![JavaScriptLogo](https://github.com/devdomnk/devdomnk/assets/144699274/4054abcc-8d80-471a-a320-40d8dc08370e)
 
-#### Familiar Software
+### Familiar Software
 ![VsCodeLogo](https://github.com/devdomnk/devdomnk/assets/144699274/78d0abff-dc0c-40bc-b722-c789f4feed5c)
 ![FigmaLogo](https://github.com/devdomnk/devdomnk/assets/144699274/c898e052-c5ef-4d16-9b83-2ac3cbaa371e)
 ![GitLogo](https://github.com/devdomnk/devdomnk/assets/144699274/9d775804-6b59-4dda-b044-878b9849e37e)
