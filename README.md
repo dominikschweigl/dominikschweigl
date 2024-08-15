@@ -3,8 +3,8 @@
 
 ... an austrian computer science sophomore at university of Innsbruck
 
-I currently work at BERNARD as Software Engineering working student in
-the department of traffic analysis and take part in creating/maintaining 
+I currently work at BERNARD as Software Engineering working student in<br/>
+the department of traffic analysis and take part in creating/maintaining<br/>
 a traffic analysis artificial intelligence
 
 occasionally I work on web development projects in Typescript/React
