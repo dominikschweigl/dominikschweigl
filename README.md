@@ -1,9 +1,13 @@
 # Hi there✌🏻, I'm Dominik 
 <br/>
 
-... an austrian computer science freshman at university of Innsbruck
+... an austrian computer science sophomore at university of Innsbruck
 
-occasionally I work on web development in JavaScript/React
+I currently work at BERNARD as Software Engineering working student in
+the department of traffic analysis and take part in creating/maintaining 
+a traffic analysis artificial intelligence
+
+occasionally I work on web development projects in Typescript/React
 
 <br/>
 
